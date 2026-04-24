@@ -1,4 +1,0 @@
-company,year,month,period,source_file,source_type,service_revenue,sales_revenue,net_income,operating_expenses,total_assets,current_assets,liabilities,retained_earnings,total_revenue,profit_margin,operating_expense_ratio,current_ratio,asset_to_liability_ratio
-sample_financial_data,,,,company_a,csv,500000,300000,120000,250000,900000,400000,200000,150000,800000,0.15,0.3125,2.0,4.5
-sample_financial_data,,,,company_b,csv,450000,250000,80000,300000,850000,350000,250000,120000,700000,0.11428571428571428,0.42857142857142855,1.4,3.4
-sample_financial_data,,,,company_c,csv,600000,200000,150000,280000,1000000,500000,300000,200000,800000,0.1875,0.35,1.6666666666666667,3.3333333333333335

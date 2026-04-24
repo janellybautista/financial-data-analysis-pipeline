@@ -1,0 +1,4 @@
+source_file,service_revenue,sales_revenue,net_income,operating_expenses,total_assets,current_assets,liabilities,retained_earnings
+company_a,500000,300000,120000,250000,900000,400000,200000,150000
+company_b,450000,250000,80000,300000,850000,350000,250000,120000
+company_c,600000,200000,150000,280000,1000000,500000,300000,200000

@@ -274,14 +274,17 @@ Suggested dashboard elements:
 | Slicers | `company`, `year`, `month`, `source_type` |
 
 ---
+### 5. Current Status & Future Improvements
 
-## 5. Future Improvements
+The main pipeline code is included and runs with compatible financial PDF, CSV, or Excel inputs. Example input files and sample output reports are not included yet, but will be added as demo materials.
+
+The repository also includes a complementary LLM API-based prototype for summarizing extracted financial data and generating plain-language explanations.
 
 Possible future upgrades:
 
 - Add more flexible financial label matching with document parsing tools such as LlamaParse
 - Add support for scanned PDFs or OCR
-- Add AI-generated summaries from already-computed KPI results
+- Add AI-generated summaries from already-computed KPI results to the main pipeline code
 - Add a Streamlit app for uploading files...
 
 ---
